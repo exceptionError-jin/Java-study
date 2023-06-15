@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\web_1900_hds\dbms\oracle\resource\zip\jdbc_day03 (1)\jdbc.zip"/>
+			<item value="D:\web_1900_hds\dbms\oracle\resource\zip\jdbc_day02\jdbc.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day18\collection.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day18\lambda.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day17\collection.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day15\object.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day14\exception.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day13\ambiguity.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day12\interface.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day12\anonymous.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day10\class.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day10\casting.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day10\bank.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\java_day08\class.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\variable.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\inheritance.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\method.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\array.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\oper.zip"/>
+			<item value="D:\web_1900_hds\java\resource\zip파일\day03.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
